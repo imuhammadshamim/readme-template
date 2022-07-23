@@ -146,18 +146,3 @@ http://www.imuhammad.com
 <!-- all link is here -->
 [websitelink]: http://www.imuhammad.com
 [facebooklink]: http://www.imuhammad.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
