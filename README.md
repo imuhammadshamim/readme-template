@@ -118,19 +118,28 @@ http://www.imuhammad.com
 ### Disable link
 `http://www.imuhammad.com`
 
-### Markdown link sytex
+### Markdown link sytax
 [imuhsmmad](http://www.imuhammad.com)
 
 
-### Markdown link sytex
+### Markdown link sytax
 [imuhsmmad][websitelink]
 [facebook][facebooklink]
 
 <br/>
 
 ### Image sytex
-![profile] (./images/me.JPG)
+<!-- ![profile](./images/me.JPG) -->
 
+<img src="./images/me.JPG" width="500" title="profile images"/>
+😊
+
+<br/>
+
+### table sytex
+| Name | Email |
+|------- | ------ |
+| Imuhammad | shamim.mia@northsouth.edu
 
 
 
